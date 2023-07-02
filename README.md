@@ -25,7 +25,6 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
 - Email: [jayantakarmakar998@gmail.com](mailto:jayantakarmakar998@gmail.com)
 - GitHub: [jayanta-karmakar](https://github.com/jayanta-karmakar)
 - Instagram: [Jayanta Karmakar](https://www.instagram.com/jayantakarmakar998/)
-- [sdfvsvs](mail:jayanta@gmail)
 
 ## Contributing
 
