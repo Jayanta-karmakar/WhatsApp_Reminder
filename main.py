@@ -3,7 +3,7 @@ import datetime
 import time
 import sys
 import pyautogui
-# Number "+918768073772"
+
 def send_whatsapp_reminder():
     currentTime = datetime.datetime.now()
     deadline = datetime.datetime(currentTime.year, currentTime.month, currentTime.day, 3, 15, 0)  # Set the deadline time
@@ -27,7 +27,7 @@ def send_whatsapp_reminder():
 
     # Replace the phone number and message with your own
     pywhatkit.sendwhatmsg_instantly(
-        phone_no = "+918768073772",
+        phone_no = "+918101016245",
         message = reminder_message
     )
 
